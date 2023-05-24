@@ -1,0 +1,17 @@
+#mainsearch {
+    text-align: center;
+}
+#searchbar {
+    border-radius: 15px;
+    background: #73AD21;
+    width: 600px;
+    padding: 15px;
+    height: 30px;
+}
+#googlesearch {
+    margin-top: 10px;
+    font-family: 'Times New Roman';
+}
+.topright {
+    float: right;
+}
